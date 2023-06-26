@@ -10,14 +10,14 @@ Para ejecutar esta API, deberás seguir los siguientes pasos:
 sql
 Copy code
 -- Script SQL
-2.Clonar el repositorio de la API desde GitHub.
+2. Clonar el repositorio de la API desde GitHub.
 
-3.Instalar las dependencias del proyecto ejecutando el siguiente comando:
+3. Instalar las dependencias del proyecto ejecutando el siguiente comando:
 npm install
 
 Configurar las variables de entorno necesarias, como la conexión a la base de datos y las claves de API, siguiendo el archivo .env.example.
 
-4.Ejecutar la API mediante el siguiente comando:
+4. Ejecutar la API mediante el siguiente comando:
 npm start
 
 ## Funcionalidades
