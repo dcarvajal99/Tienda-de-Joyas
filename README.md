@@ -15,9 +15,9 @@ Copy code
 3. Instalar las dependencias del proyecto ejecutando el siguiente comando:
 npm install
 
-Configurar las variables de entorno necesarias, como la conexión a la base de datos y las claves de API, siguiendo el archivo .env.example.
+4. Configurar las variables de entorno necesarias, como la conexión a la base de datos y las claves de API, siguiendo el archivo .env.example.
 
-4. Ejecutar la API mediante el siguiente comando:
+5. Ejecutar la API mediante el siguiente comando:
 npm start
 
 ## Funcionalidades
